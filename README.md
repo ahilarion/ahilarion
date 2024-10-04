@@ -53,7 +53,7 @@ When I'm not coding, you can find me exploring the latest tech trends, contribut
 
 <p>
   <a href="mailto:contact@alan-hilarion.fr"><img src="https://img.shields.io/badge/Email-contact%40alan--hilarion.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ahilarion"><img src="https://img.shields.io/badge/LinkedIn-ahilarion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/alan-hilarion"><img src="https://img.shields.io/badge/LinkedIn-ahilarion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
