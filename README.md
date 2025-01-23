@@ -25,7 +25,11 @@ When I'm not coding, you can find me exploring the latest tech trends, contribut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahilarion&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahilarion&theme=tokyonight" alt="Contribution Streak" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nelo0o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nelo0o&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🛠️ Tech Stack & Tools
 
